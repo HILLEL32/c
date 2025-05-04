@@ -1,0 +1,13 @@
+# Ignore compiled binaries
+myShell
+copy
+
+# Ignore object files
+*.o
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
